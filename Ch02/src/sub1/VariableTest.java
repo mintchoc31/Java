@@ -35,7 +35,7 @@ public class VariableTest {
 		
 		//상수는 값이 고정
 		//NUM = 7;
-		System.out.println("NUM");
+		System.out.println("NUM : " + NUM);
 	}
 
 }
