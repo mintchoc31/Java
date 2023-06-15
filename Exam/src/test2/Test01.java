@@ -23,3 +23,6 @@ public class Test01 {
 		}
 	}
 }
+
+// for 중첩 구문, 피연산자(1씩 증가), row:수평, col:수직
+// row: 1 => col: 0,->1 => row:2 => col: 1,->2
