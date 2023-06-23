@@ -13,7 +13,7 @@ public class Test08 {
 	}
 	
 	public static int factorial(int n) {
-		
+		// Recursive : 재귀함수
 		if (n <= 1) {
 			return 1;
 		}

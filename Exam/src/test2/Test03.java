@@ -18,7 +18,7 @@ public class Test03 {
 		// 배열의 원소를 역순으로 정렬
 		for (int j = 0; j <5; j++) {
 			int temp = arr[j];
-			
+		
 			arr[9-j] = temp;
 		}
 		

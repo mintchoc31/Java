@@ -25,6 +25,8 @@ public class Test05 {
 		
 		
 		System.out.println("검색할 값 입력 : ");
+		int value = sc.nextInt();
+		
 		int start = 0;
 		int end = arr.length -1;
 		int loc = 0;

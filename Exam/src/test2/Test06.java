@@ -29,9 +29,11 @@ public class Test06 {
 		public static void main(String[] args) {
 		
 			Scanner sc = new Scanner(System.in);
+			// "a" : 문자열, 'a' : 문자
 			
-			int a = input(sc,"a")
-			int b = input(sc,"b")
+			int a = input(sc, "a")
+			int b = input(sc, "b")
+			
 			int output = add(a, b);
 			result(output);
 			
