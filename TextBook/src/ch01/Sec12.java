@@ -1,13 +1,12 @@
-package ch01.sec12;
+package ch01;
 
 /*
  * 날짜:2023/06/12
  * 이름:조유빈
  * 내용:
- * 
  */
 
-public class Hello {
+public class Sec12 {
 	public static void main(String[] args) {
 		int x = 1;				//변수 x를 선언하고 1을 저장
 		int  y =2;				//변수 y를 선언하고 2를 저장
