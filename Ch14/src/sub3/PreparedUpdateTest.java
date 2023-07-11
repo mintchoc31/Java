@@ -13,7 +13,7 @@ public class PreparedUpdateTest {
 	public static void main(String[] args) {
 		
 		// DB 정보
-		String host = "jdbc:mysql://127.0.0.1:3306/userdb";
+		String host = "jdbc:mysql://localhost:3306/userdb";
 		String user = "root";
 		String pass = "1234";
 		
