@@ -14,7 +14,7 @@ class Product {
 	}
 	public void ? () {}
 }
-class Television ? {
+class Television extends Product {
 	
 	public Television(String category, int price) {
 		super(category, price);
@@ -27,7 +27,7 @@ class Television ? {
 	}
 }
 
-class Computer ? {
+class Computer extends Product {
 	
 	public Computer(String category, int price) {
 		super(category, price);
